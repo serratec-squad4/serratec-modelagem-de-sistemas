@@ -1,8 +1,7 @@
-# serratec-modelagem-de-sistemas
-## Colaboradores
+# Colaboradores
 
-+NATHAN GUIMARÃES
-+LUCIANA SANTOS
-+MATHEUS ANDRADE
-+ANDRÉ PONTE
-+BRUNO DE PAULA
++ NATHAN GUIMARÃES
++ LUCIANA SANTOS
++ MATHEUS ANDRADE
++ ANDRÉ PONTE
++ BRUNO DE PAULA
