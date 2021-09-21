@@ -3564,7 +3564,7 @@
 											"top": 160,
 											"width": 486.0146484375,
 											"height": 13,
-											"text": "+ProcessarNota(Nota_Fiscal notaFiscal): String",
+											"text": "+ComporNota(Nota_Fiscal notaFiscal): String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -10637,7 +10637,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF8BYmFPJsmYPk="
 							},
-							"name": "ProcessarNota",
+							"name": "ComporNota",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -10645,8 +10645,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF8BdE7xE9gy1E="
 									},
-									"name": "Nota_Fiscal notaFiscal",
-									"type": ""
+									"name": "Nota_Fiscal notaFiscal"
 								},
 								{
 									"_type": "UMLParameter",
